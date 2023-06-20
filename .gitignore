@@ -3,3 +3,6 @@
 data/*
 generated/*
 weights/*
+final/*
+graphs/*
+*.mid
